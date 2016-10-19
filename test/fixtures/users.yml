@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  username: MyString
+  nickname: MyString
+  pw: 
+  grade: 1
+
+two:
+  username: MyString
+  nickname: MyString
+  pw: 
+  grade: 1
